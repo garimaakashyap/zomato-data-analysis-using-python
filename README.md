@@ -49,7 +49,7 @@ The dataset includes:
 
 - **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 - **EDA Techniques**: Data cleaning, grouping, aggregation
-- **Visualizations**: Bar charts, pie charts, histograms, box plots
+- **Visualizations**: Bar charts, pie charts, histograms, box plots, line grsphs
 - **Statistical Analysis**: Mean, median, mode, correlation
 
 ---
