@@ -1,6 +1,4 @@
-**Here's a complete README file you can copy and paste into your GitHub repository. It summarizes your Zomato data analysis project, answers all six questions, and reflects on your learnings.**
 
----
 
 # 📊 Zomato Data Analysis Using Python
 
